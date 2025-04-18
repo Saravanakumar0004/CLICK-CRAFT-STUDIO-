@@ -16,7 +16,7 @@ A beautiful and responsive website for a professional photography studio. This s
 
 ## 📁 Project Structure
 
-
+CLICK-CRAFT-STUDIO/ │ ├── assets/ │ ├── css/ # Stylesheets │ ├── fonts/ # Fonts used in the project │ ├── images/ # Website images │ ├── js/ # JavaScript files │ └── scss/ # SCSS source files (if used) │ ├── index.html # Homepage ├── about.html # About page ├── service.html # Services offered ├── portfolio.html # Portfolio gallery ├── blog.html # Blog section (if available) ├── contact.html # Contact page └── README.md # Project documentation
 ---
 
 ## 🚀 Features
